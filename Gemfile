@@ -29,7 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 
 ### PERSONAL GEMS ######
-gem 'device' # auth gem
+gem 'devise' # auth gem
 gem 'bootstrap', '~> 4.3.1'
 gem 'slim-rails'
 gem 'annotate'
@@ -38,7 +38,6 @@ gem "bulma-rails", "~> 0.8.0"
 gem 'gravatar_image_tag'
 gem 'carrierwave', '~> 2.0' #Upload files service
 gem "mini_magick"
-gem 'better'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
