@@ -1,2 +1,10 @@
-h1 Home#index
-p Find me in app/views/home/index.html.slim
+- if current_user.nil?
+
+  h1 Home#index
+  p Find me in app/views/home/index.html.slim
+
+- else
+  h1 Welcome
+  p = current_user.email
+
+
