@@ -1,7 +1,6 @@
 - if current_user.nil?
 
-  h1 Home#index
-  p Find me in app/views/home/index.html.slim
+ = render "home/dashboard"
 
 - else
   h1 Welcome
