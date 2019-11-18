@@ -17,12 +17,11 @@ html
       li.nav-item
         = link_to 'Salir', destroy_user_session_path, method: :delete
     - else
-      nav.navbar.navbar-light.bg-light.static-top
+      nav.navbar.navbar-white.bg-dark.static-top
         .container
           a.navbar-brand[href="#"]
             | Start Bootstrap
-          table
-            = link_to 'Log In', new_user_session_path, class: "btn btn-primary"
-            = link_to "Sign In", new_user_registration_path, class: "btn btn-primary"
+          = link_to 'Log In', new_user_session_path, class: "btn btn-primary"
+          = link_to "Sign In", new_user_registration_path, class: "btn btn-primary"
     = yield
 
