@@ -17,13 +17,13 @@ html
       li.nav-item
         = link_to 'Salir', destroy_user_session_path, method: :delete
     - else
-        nav.navbar.navbar-white.bg-dark.static-top
+        nav.navbar.navbar-danger.bg-dark.static-top
           .container
-            a.navbar-brand[href="#"]
-              | Start Bootstrap
-              ul.navbar-nav.ml-auto
-                li.nav-item
-                  = link_to 'Log In', new_user_session_path, class: "btn btn-danger"
-                  = link_to "Sign In", new_user_registration_path, class: "btn btn-danger"
+            = link_to "Ecommerce", root_path, class: "navbar-brand"
+            ul.navbar-nav.ml-auto
+              li.nav-item
+                = link_to 'Log In', new_user_session_path, class: "btn btn-danger"
+                = " "
+                = link_to "Sign In", new_user_registration_path, class: "btn btn-danger"
     = yield
 
