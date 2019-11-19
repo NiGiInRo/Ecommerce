@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c56dd8c6-7969-4b73-a754-ded34f408125" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/images/pets1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/application.slim" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.slim" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="379">
+              <caret line="25" column="84" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="135" selection-start-line="135" selection-end-line="135" />
             </state>
           </provider>
         </entry>
@@ -30,10 +42,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/home/_dashboard.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
+            <state relative-caret-position="2227">
               <caret line="143" column="57" selection-start-line="143" selection-start-column="57" selection-end-line="143" selection-end-column="57" />
             </state>
           </provider>
@@ -74,6 +86,8 @@
         <option value="$PROJECT_DIR$/app/controllers/registrations_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/home/dashboard.slim" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.slim" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.slim" />
       </list>
     </option>
@@ -85,7 +99,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="18" />
     <option name="y" value="51" />
     <option name="width" value="1366" />
@@ -110,6 +124,26 @@
               <item name="Ecommerce" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ecommerce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ecommerce" type="b2602c69:ProjectViewProjectNode" />
@@ -272,18 +306,18 @@
       <option name="presentableId" value="Default" />
       <updated>1573797364204</updated>
       <workItem from="1573797365593" duration="14521000" />
-      <workItem from="1574101973164" duration="3994000" />
+      <workItem from="1574101973164" duration="7046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18515000" />
+    <option name="totallyTimeSpent" value="21567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -439,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -455,8 +482,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/_dashboard.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
+        <state relative-caret-position="2227">
           <caret line="143" column="57" selection-start-line="143" selection-start-column="57" selection-end-line="143" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="84" />
         </state>
       </provider>
     </entry>
