@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56dd8c6-7969-4b73-a754-ded34f408125" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/bg-masthead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/bg-showcase-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/bg-showcase-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/bg-showcase-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/testimonials-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/testimonials-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/testimonials-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/home/_dashboard.slim" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/_dashboard.slim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.slim" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.slim" afterDir="false" />
-    </list>
+    <list default="true" id="c56dd8c6-7969-4b73-a754-ded34f408125" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,12 +296,12 @@
       <workItem from="1574101973164" duration="7877000" />
       <workItem from="1574184956449" duration="894000" />
       <workItem from="1575149540954" duration="67000" />
-      <workItem from="1575154205657" duration="5328000" />
+      <workItem from="1575154205657" duration="5430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28687000" />
+    <option name="totallyTimeSpent" value="28789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -323,7 +312,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.45499182" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.45499182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
