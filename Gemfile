@@ -36,7 +36,7 @@ gem 'annotate'
 gem 'simple_form' # forms 
 gem "bulma-rails", "~> 0.8.0"
 gem 'gravatar_image_tag'
-gem 'carrierwave', '~> 2.0' #Upload files service
+gem 'carrierwave', '~> 2.1' #Upload files service
 gem "mini_magick"
 
 # Use ActiveStorage variant
